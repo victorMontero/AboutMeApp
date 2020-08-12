@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMeApp</string>
+    <string name="resource_name">victor</string>
+    <string name="description_star">yellow star</string>
+    <string name="bio">Hi, my name is victor.
+        \n\n line one
+        \n\n line two
+        \n\n line three
+        \n\n line four
+        \n\n line five
+        \n\n line six
+        \n\n line seven
+        \n\n line eight
+        \n\n line nine
+        \n\n line ten
+    </string>
+    <string name="what_nickname">whats your nickname?</string>
+    <string name="done_button">done</string>
+
+</resources>
